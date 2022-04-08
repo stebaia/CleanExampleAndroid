@@ -10,7 +10,7 @@ import androidx.paging.compose.collectAsLazyPagingItems
 import com.google.accompanist.systemuicontroller.rememberSystemUiController
 import com.sbaiardi.cleanexampleandroid.ui.AppContentColor
 import com.sbaiardi.cleanexampleandroid.ui.AppThemeColor
-import com.sbaiardi.cleanexampleandroid.ui.presentation.screen.HomeTopBar
+import com.sbaiardi.cleanexampleandroid.ui.presentation.screen.home.HomeTopBar
 import com.sbaiardi.cleanexampleandroid.ui.presentation.screen.home.MovieListContent
 import com.sbaiardi.cleanexampleandroid.ui.presentation.viewmodels.HomeViewModel
 
